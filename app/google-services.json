@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "339990627184",
+    "firebase_url": "https://blood-d4cba.firebaseio.com",
+    "project_id": "blood-d4cba",
+    "storage_bucket": "blood-d4cba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339990627184:android:fda5f5ab765cb4fd6f85b5",
+        "android_client_info": {
+          "package_name": "com.example.blood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "339990627184-1hgbt6b62eqt0456glu7d805a6a67ctn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.blood",
+            "certificate_hash": "4857b3b11726538a3acc1e9182812b07c0bbc7fc"
+          }
+        },
+        {
+          "client_id": "339990627184-u6vfg26v47l92a7r582ml2eikdvv3b4n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGB4nE5g4XRU6eFUmWg6Te2OMpaeUQ4IY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "339990627184-u6vfg26v47l92a7r582ml2eikdvv3b4n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
